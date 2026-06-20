@@ -1,0 +1,20 @@
+{
+  "name": "fullstackapp",
+  "version": "1.0.0",
+  "description": "Youtube type",
+  "keywords": [
+    "Javascript",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Chitransh",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14",
+    "prettier": "^3.8.4"
+  }
+}
